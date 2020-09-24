@@ -1,4 +1,4 @@
-# reddit-nlp-project
+# Reddit-NLP-Project
 
 ## Table of Contents
 - [Objective](#Objective)
